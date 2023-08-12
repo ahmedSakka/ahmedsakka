@@ -13,5 +13,3 @@ Hey there! I'm **Ahmed Al Sakka**, a dedicated Data Analyst with expertise in a 
 🔗 Connect with me to explore the dynamic realm of data analysis. Let's transform information into actionable insights together.
 
 Contact me through email: (ahmedsakka101@gmail.com)
-
-#DataAnalysis #SQL #Python #Tableau #PowerBI #VersionControl
