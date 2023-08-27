@@ -12,4 +12,6 @@ Hey there! I'm **Ahmed Al Sakka**, a dedicated Data Analyst with expertise in a 
 
 🔗 Connect with me to explore the dynamic realm of data analysis. Let's transform information into actionable insights together.
 
+Connect with me through [LinkedIn](https://www.linkedin.com/in/ahmed-alsakka-analyst/)
+
 Contact me through email: (ahmedsakka101@gmail.com)
