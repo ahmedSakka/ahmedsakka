@@ -1,6 +1,6 @@
 **📊 Data Analyst | SQL | Python | Tableau | Power BI | Version Control**
 
-Hey there! I'm **Ahmed Al Sakka**, a dedicated Data Analyst with expertise in a range of tools and technologies. My analytical journey is fueled by the power of data, and I specialize in transforming raw information into valuable insights.
+Hey there! I'm **Ahmed AlSakka**, a dedicated Data Analyst with expertise in a range of tools and technologies. My analytical journey is fueled by the power of data, and I specialize in transforming raw information into valuable insights.
 
 🔍 Proficient in SQL, I skillfully navigate databases to extract, manipulate, and analyze data. My Python prowess enables me to automate processes, conduct statistical analyses, and develop data-driven solutions.
 
